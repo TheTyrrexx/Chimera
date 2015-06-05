@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg4326"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="Hydra.svg"
+   inkscape:export-filename="E:\Projects\Gamedev\Chimera\Assets\Sprites\Enemy\Hydra\Hydra.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4328" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.9590208"
+     inkscape:cx="175.39081"
+     inkscape:cy="107.80254"
+     inkscape:current-layer="g4381"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata4331">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,224)">
+    <g
+       id="g4381"
+       transform="matrix(0.81832047,0,0,0.81832047,4.5435135,1.2702314)">
+      <g
+         id="g4378" />
+      <g
+         id="g2991"
+         transform="matrix(7.8015211,0,0,7.8015211,41.6444,-259.29306)">
+        <g
+           id="g2986"
+           transform="translate(0,-1.7108212e-6)">
+          <path
+             style="fill:#8a2be2;fill-opacity:0;fill-rule:nonzero;stroke:#8a2be2;stroke-width:1.22201514;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 14,-0.96875 -5.5625,5.5625 -7.84375,0 0,7.84375 -5.5625,5.5625 5.5625,5.5625 0,7.84375 7.84375,0 5.5625,5.5625 5.5625,-5.5625 7.84375,0 0,-7.84375 5.5625,-5.5625 -5.5625,-5.5625 0,-7.84375 -7.84375,0 L 14,-0.96875 z"
+             id="rect4334"
+             inkscape:connector-curvature="0" />
+        </g>
+        <rect
+           style="fill:#8a2be2;fill-opacity:0;fill-rule:nonzero;stroke:#8a2be2;stroke-width:1.22201514;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect4334-0"
+           width="26.833015"
+           height="26.833015"
+           x="0.58349228"
+           y="4.5834923" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150"
+   height="128"
+   id="svg4275"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="Pegasus.svg"
+   inkscape:export-filename="E:\Projects\Gamedev\Chimera\Assets\Sprites\Enemy\Pegasus\Pegasus.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4277" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.9590209"
+     inkscape:cx="46.624392"
+     inkscape:cy="37.351358"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4280">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,96)">
+    <g
+       id="g2985"
+       transform="matrix(4.8602533,0,0,4.6295619,-6.8719803,-106.11647)">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4285"
+         d="m 31.490241,23.515165 0,-15.03033 L 1.9100444,16 z"
+         inkscape:transform-center-x="2.3120126"
+         style="fill:none;stroke:#ffd700;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="matrix(0.9998477,-0.01745241,0.01745241,0.9998477,0.80572082,-3.3932027)"
+         inkscape:transform-center-y="-0.85800509"
+         inkscape:transform-center-x="-0.76769779"
+         d="M 12.547105,6.950441 19.988096,14.888927 9.39267,17.363771 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-0.75306144"
+         sodipodi:arg1="-1.800259"
+         sodipodi:r2="3.1409645"
+         sodipodi:r1="6.281929"
+         sodipodi:cy="13.067713"
+         sodipodi:cx="13.975957"
+         sodipodi:sides="3"
+         id="path4306"
+         style="fill:#000000;fill-opacity:0;stroke:#ffd700;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star" />
+      <path
+         transform="matrix(0.04536299,0.99897057,-0.99897057,0.04536299,27.419816,8.0303529)"
+         inkscape:transform-center-y="0.85243939"
+         inkscape:transform-center-x="-0.7733054"
+         d="M 12.547105,6.950441 19.988096,14.888927 9.39267,17.363771 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-0.75306144"
+         sodipodi:arg1="-1.800259"
+         sodipodi:r2="3.1409645"
+         sodipodi:r1="6.281929"
+         sodipodi:cy="13.067713"
+         sodipodi:cx="13.975957"
+         sodipodi:sides="3"
+         id="path4306-7"
+         style="fill:#000000;fill-opacity:0;stroke:#ffd700;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>
